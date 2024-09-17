@@ -1,5 +1,6 @@
-def (a, b):
+def add(a, b):
     """Add two numbers."""
     return a + b
 
-print(add(1+2))
+
+print(add(1, 2))
